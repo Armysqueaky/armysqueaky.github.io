@@ -1,2 +1,1 @@
-# Armysqueaky.com
-Just my website 
+cool a website
